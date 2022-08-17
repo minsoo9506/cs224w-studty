@@ -46,9 +46,9 @@
   - [7.3 - Stacking layers of a GNN](https://www.youtube.com/watch?v=ew1cnUjRgl4&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=22)
 - Code (coming soon)
   - cs224w HW colab 2
-  - GCN
-  - GraphSAGE
-  - GAT
+  - GCN (cs224w HW colab 2)
+  - GraphSAGE (cs224w HW colab 3)
+  - GAT (cs224w HW colab 3)
 - Summary
   - [GCN](https://minsoo9506.github.io/01_gnn/)
 - Paper

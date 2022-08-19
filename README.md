@@ -44,6 +44,11 @@
   - [7.1 - A general Perspective on GNNs](https://www.youtube.com/watch?v=RU9uTa_-ZOw&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=20)
   - [7.2 - A Single Layer of a GNN](https://www.youtube.com/watch?v=247Mkqj_wRM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=21)
   - [7.3 - Stacking layers of a GNN](https://www.youtube.com/watch?v=ew1cnUjRgl4&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=22)
+  - [8.1 - Graph Augmentation for GNNs](https://www.youtube.com/watch?v=1A6VoEkQnhQ&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=23)
+  - [8.2 - Training Graph Neural Networks](https://www.youtube.com/watch?v=eXIIH8YVxKI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=24)
+  - [8.3 - Setting up GNN Prediction Tasks](https://www.youtube.com/watch?v=ewEW_EMzRuo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=25)
+  - [9.1 - How Expressive are Graph Neural Networks](https://www.youtube.com/watch?v=5vMEgYbka0A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=26)
+  - [9.2 - Designing the Most Powerful GNNs](https://www.youtube.com/watch?v=B5y47gWt3co&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=27)
 - Code (coming soon)
   - cs224w HW colab 2
   - GCN (cs224w HW colab 2)
@@ -60,6 +65,7 @@
   - `Dropout`: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, JMLR 2014](https://jmlr.org/papers/v15/srivastava14a.html)
   - `Skip connection`: [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
   - `Skip connection in Graph`: [Representation Learning on Graphs with Jumping Knowledge Networks, ICML 2018](https://proceedings.mlr.press/v80/xu18c/xu18c.pdf)
+  - `GIN`: [HOW POWERFUL ARE GRAPH NEURAL NETWORKS?, ICLR 2019](https://arxiv.org/pdf/1810.00826.pdf)
 
 # Reference
 

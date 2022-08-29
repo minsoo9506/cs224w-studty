@@ -67,6 +67,24 @@
   - `Skip connection in Graph`: [Representation Learning on Graphs with Jumping Knowledge Networks, ICML 2018](https://proceedings.mlr.press/v80/xu18c/xu18c.pdf)
   - `GIN`: [HOW POWERFUL ARE GRAPH NEURAL NETWORKS?, ICLR 2019](https://arxiv.org/pdf/1810.00826.pdf)
 
+### Heterogeneous Graphs, Knowledge Graph Embeddings
+
+- Lecture
+  - [10.1-Heterogeneous & Knowledge Graph Embedding](https://www.youtube.com/watch?v=Rfkntma6ZUI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=28)
+  - [10.2 - Knowledge Graph Completion](https://www.youtube.com/watch?v=xop5tC9T5xM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=29)
+  - [10.3 - Knowledge Graph Completion Algorithms](https://www.youtube.com/watch?v=Xm5VrxZYhu4&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=30)
+  - [11.1 - Reasoning in Knowledge Graphs](https://www.youtube.com/watch?v=X9yl0pTP9fY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=31)
+  - [11.2 - Answering Predictive Queries](https://www.youtube.com/watch?v=qaRIBNE-4Ho&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=32)
+  - [11.3 - Query2box: Reasoning over KGs](https://www.youtube.com/watch?v=Nt66M2OsbCw&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=33)
+- Paper
+  - `TranE`: [Translating Embeddings for Modeling Multi-relational Data](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)
+  - `TranR`: [Learning Entity and Relation Embeddings for Knowledge Graph Completion](https://linyankai.github.io/publications/aaai2015_transr.pdf)
+  - `DistMult`: [Embedding Entities and Relations for Learning and Inference in Knowledge Bases](https://arxiv.org/abs/1412.6575)
+  - `ComplEx`: [Complex Embeddings for Simple Link Prediction](https://arxiv.org/abs/1606.06357)
+  - [Traversing Knowledge Graphs in Vector Space](https://arxiv.org/abs/1506.01094)
+  - [Embedding Logical Queries on Knowledge Graphs](https://arxiv.org/abs/1806.01445)
+  - [Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings](https://arxiv.org/abs/2002.05969)
+
 # Reference
 
 - [cs224w 강의](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)

@@ -49,13 +49,16 @@
   - [8.3 - Setting up GNN Prediction Tasks](https://www.youtube.com/watch?v=ewEW_EMzRuo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=25)
   - [9.1 - How Expressive are Graph Neural Networks](https://www.youtube.com/watch?v=5vMEgYbka0A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=26)
   - [9.2 - Designing the Most Powerful GNNs](https://www.youtube.com/watch?v=B5y47gWt3co&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=27)
-- Code (coming soon)
-  - cs224w HW colab 2
-  - GCN (cs224w HW colab 2)
-  - GraphSAGE (cs224w HW colab 3)
-  - GAT (cs224w HW colab 3)
+- Code
+  - [cs224w HW colab 2](./cs224w_code/CS224W_Colab_2.ipynb)
+    - GCN
+  - [cs224w HW colab 3](./cs224w_code/CS224W_Colab_3.ipynb)
+    - GraphSAGE
+    - GAT
 - Summary
   - [GCN](https://minsoo9506.github.io/01_gnn/)
+  - [GraphSAGE](https://minsoo9506.github.io/02_graphsage/)
+  - [GAT](https://minsoo9506.github.io/03_gat/)
 - Paper
   - [Design Space of Graph Neural Networks, NIPS 2020](https://proceedings.neurips.cc/paper/2020/file/c5c3d4fe6b2cc463c7d7ecba17cc9de7-Paper.pdf)
   - `GCN`: [Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017](https://arxiv.org/abs/1609.02907)

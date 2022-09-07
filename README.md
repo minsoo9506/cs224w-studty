@@ -88,6 +88,33 @@
   - [Embedding Logical Queries on Knowledge Graphs](https://arxiv.org/abs/1806.01445)
   - [Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings](https://arxiv.org/abs/2002.05969)
 
+### Advanced Topics in Graph Neural Networks
+
+- Lecture
+  - [16.1 - Limitations of Graph Neural Networks](https://www.youtube.com/watch?v=yT5PziOXxQg&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=49)
+  - [16.2 - Position-Aware Graph Neural Networks](https://www.youtube.com/watch?v=6ZFvToZUjGA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=50)
+  - [16.3 - Identity-Aware Graph Neural Networks](https://www.youtube.com/watch?v=SJqWQGh__N8&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=51&t=76s)
+  - [16.4 - Robustness of Graph Neural Networks](https://www.youtube.com/watch?v=uBmtTL3EitI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=52)
+- Paper
+  - [Position-aware Graph Neural Networks, ICML 2019](https://arxiv.org/abs/1906.04817)
+  - [Identity-aware Graph Neural Networks, AAAI 2021](https://arxiv.org/abs/2101.10320)
+  - [Adversarial Attacks on Neural Networks for Graph Data, KDD 2018 ](https://arxiv.org/abs/1805.07984)
+
+### Scaling Up Graph Neural Networks to Large Graphs
+
+- Lecture
+  - [17.1 - Scaling up Graph Neural Networks](https://www.youtube.com/watch?v=2nPCw3yHlnI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=53)
+  - [17.2 - GraphSAGE Neighbor Sampling](https://www.youtube.com/watch?v=LLUxwHc7O4A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=54)
+  - [17.3 - Cluster GCN: Scaling up GNNs](https://www.youtube.com/watch?v=RJkR8Ig6dXI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=55)
+  - [17.4 - Scaling up by Simplifying GNNs](https://www.youtube.com/watch?v=iTRW9Gh7yKI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=56)
+
+### Other Topics
+
+- Fast Neural Subgraph Matching and Counting
+- GNNs for Recommender Systems
+- Community Detection in Networks
+- Deep Generative Models for Graphs
+
 # Reference
 
 - [cs224w 강의](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
